@@ -14,8 +14,8 @@ const projects = [
     description:
       "React Js single page application which takes you through all my experiences and expertise on a single click.",
     tools: ["ReactJs", "HTML", " Tailwind CSS", "JavaScript"],
-    github: "https://github.com/Harishk820/weatherapp",
-    link: "https://harishk820/github.io/watherapp/",
+    github: "https://github.com/Harishk820/my_portfolio",
+    link: "https://harishk820.github.io/my_portfolio/",
   },
   {
     title: "Dictionary Application",

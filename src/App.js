@@ -1,5 +1,5 @@
-import { lazy, Suspense } from "react";
-
+// import { lazy, Suspense } from "react";
+import React from "react";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Project from "./components/Project";

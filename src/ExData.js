@@ -4,11 +4,11 @@ const workHistory = [
     role: "Web Development Intern",
     duration: "June'17 – July'17",
     workDes: [
-      "Provided maintenance and feature creation using HTML5,CSS3,JavaScript,jQuery and other client-side development processes.",
-      "Formulated procedure for slicing and optimizing images for HTML emails using Photoshop",
+      "Provided maintenance and feature creation using HTML5, JavaScript, CSS3, jQuery and other client-side development processes.",
+      "Formulated procedure for slicing and optimizing images for HTML emails using Photoshop.",
       "Worked with Senior Developer to enhance functionality and user experience on web pages using HTML,CSS,jQuery and JavaScript.",
     ],
-    exposer: ["HTML", "CSS", "JavaScript", "jQuery"],
+    exposer: ["HTML", "CSS", "JavaScript"],
     link: "https://google.com/",
   },
   {
@@ -20,7 +20,13 @@ const workHistory = [
       "Successfully initiated the process for 46 new candidates from Gyandhan.",
       "Closely worked with the marketing team for implementing new strategies.",
     ],
-    exposer: ["Planing ", "Budgeting", "Finance", "Project Management"],
+    exposer: [
+      "Planing ",
+      "Budgeting",
+      "Finance",
+      "Project Management",
+      "Forecasting",
+    ],
     link: "https://google.com/",
   },
 ];
